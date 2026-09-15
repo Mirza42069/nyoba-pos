@@ -32,9 +32,6 @@
     "env:generate": "varlock codegen --path ./apps/web/",
     "postinstall": "varlock codegen --path ./apps/web/"
   },
-  "dependencies": {
-    "zod": "catalog:"
-  },
   "devDependencies": {
     "@my-better-t-app/config": "workspace:*",
     "@types/node": "catalog:",

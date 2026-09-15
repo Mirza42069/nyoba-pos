@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "convex": "catalog:",
-    "zod": "catalog:"
+    "effect": "^3.22.2"
   },
   "devDependencies": {
     "@my-better-t-app/config": "workspace:*",
